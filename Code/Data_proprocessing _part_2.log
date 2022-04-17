@@ -1,0 +1,68 @@
+2022-04-15 14:38:39 Reading the dataset.........
+2022-04-15 14:48:26 Reading the dataset.........
+2022-04-15 14:49:13 Reading the dataset.........
+2022-04-15 14:49:13 Read the dataset successfully.
+2022-04-15 14:49:13 Replaced all ? into Null values.
+2022-04-15 14:49:13 Droped column TBG and T3 for high missing values.
+2022-04-15 14:49:13 Droped outliers from age feature.
+2022-04-15 14:49:13 Droped outliers from TSH feature.
+2022-04-15 14:49:13 Encoded the categorical features.
+2022-04-15 14:49:13 Imputation of trainind and testing missing values with KNNImputer initiated......
+2022-04-15 14:49:14 Successfully imputed the missing values in train and test.
+2022-04-15 14:49:14 Created training, testing and validation dataset.
+2022-04-15 14:49:14 Initiated imputation in validation dataset.
+2022-04-15 14:49:14 Successfully imputed in validation dataset.
+2022-04-15 14:49:14 Fixing imbalanced data initiated.....
+2022-04-15 14:49:14 fixed imbalanced data in train dataset.
+2022-04-15 14:49:14 fixed imbalanced data in test dataset.
+2022-04-15 14:49:14 fixed imbalanced data in validation dataset.
+2022-04-15 14:49:14 saving the training data.....
+2022-04-15 14:49:14 Successfully saved the training data.
+2022-04-15 14:49:14 saving the testing data.....
+2022-04-15 14:49:15 Successfully saved the testing data.
+2022-04-15 14:49:15 saving the validation data......
+2022-04-15 14:49:15 Successfully saved the validation data.
+2022-04-16 17:39:56 Reading the dataset.........
+2022-04-16 17:39:57 Read the dataset successfully.
+2022-04-16 17:39:57 Replaced all ? into Null values.
+2022-04-16 17:39:57 Droped column TBG and T3 for high missing values.
+2022-04-16 17:39:57 Droped outliers from age feature.
+2022-04-16 17:39:57 Droped outliers from TSH feature.
+2022-04-16 17:39:57 Encoded the categorical features.
+2022-04-16 17:39:57 Imputation of trainind and testing missing values with KNNImputer initiated......
+2022-04-16 17:39:57 Successfully imputed the missing values in train and test.
+2022-04-16 17:39:57 Created training, testing and validation dataset.
+2022-04-16 17:39:57 Initiated imputation in validation dataset.
+2022-04-16 17:39:57 Successfully imputed in validation dataset.
+2022-04-16 17:39:57 Fixing imbalanced data initiated.....
+2022-04-16 17:39:58 fixed imbalanced data in train dataset.
+2022-04-16 17:39:58 fixed imbalanced data in test dataset.
+2022-04-16 17:39:58 fixed imbalanced data in validation dataset.
+2022-04-16 17:39:58 saving the training data.....
+2022-04-16 17:39:58 Successfully saved the training data.
+2022-04-16 17:39:58 saving the testing data.....
+2022-04-16 17:39:58 Successfully saved the testing data.
+2022-04-16 17:39:58 saving the validation data......
+2022-04-16 17:39:58 Successfully saved the validation data.
+2022-04-16 18:07:00 Reading the dataset.........
+2022-04-16 18:07:00 Read the dataset successfully.
+2022-04-16 18:07:00 Replaced all ? into Null values.
+2022-04-16 18:07:00 Droped column TBG and T3 for high missing values.
+2022-04-16 18:07:01 Droped outliers from age feature.
+2022-04-16 18:07:01 Droped outliers from TSH feature.
+2022-04-16 18:07:01 Encoded the categorical features.
+2022-04-16 18:07:01 Imputation of trainind and testing missing values with KNNImputer initiated......
+2022-04-16 18:07:02 Successfully imputed the missing values in train and test.
+2022-04-16 18:07:02 Created training, testing and validation dataset.
+2022-04-16 18:07:02 Initiated imputation in validation dataset.
+2022-04-16 18:07:02 Successfully imputed in validation dataset.
+2022-04-16 18:07:02 Fixing imbalanced data initiated.....
+2022-04-16 18:07:02 fixed imbalanced data in train dataset.
+2022-04-16 18:07:02 fixed imbalanced data in test dataset.
+2022-04-16 18:07:02 fixed imbalanced data in validation dataset.
+2022-04-16 18:07:02 saving the training data.....
+2022-04-16 18:07:02 Successfully saved the training data.
+2022-04-16 18:07:02 saving the testing data.....
+2022-04-16 18:07:02 Successfully saved the testing data.
+2022-04-16 18:07:02 saving the validation data......
+2022-04-16 18:07:02 Successfully saved the validation data.

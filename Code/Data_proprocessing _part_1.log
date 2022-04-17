@@ -1,0 +1,30 @@
+2022-04-15 14:34:13 Reading the dataset.........
+2022-04-15 14:34:32 Read the dataset successfully.
+2022-04-15 14:34:32 Data preprocessing part 1 started.........
+2022-04-15 14:34:32 Extrated valuable information from the target variable.
+2022-04-15 14:34:32 Replaced all thyroidal diseases into one category.
+2022-04-15 14:34:32 Classified the target features into 0 and 1.
+2022-04-15 14:34:32 Renamed all features into understandable form.
+2022-04-15 14:34:32 Saving the processed data ........
+2022-04-15 14:34:32 Successfully saved the data in a csv file.
+2022-04-15 14:34:32 Data Preprocessing part 1 complete.
+2022-04-16 17:38:19 Reading the dataset.........
+2022-04-16 17:38:22 Read the dataset successfully.
+2022-04-16 17:38:22 Data preprocessing part 1 started.........
+2022-04-16 17:38:22 Extrated valuable information from the target variable.
+2022-04-16 17:38:22 Replaced all thyroidal diseases into one category.
+2022-04-16 17:38:22 Classified the target features into 0 and 1.
+2022-04-16 17:38:22 Renamed all features into understandable form.
+2022-04-16 17:38:22 Saving the processed data ........
+2022-04-16 17:38:22 Successfully saved the data in a csv file.
+2022-04-16 17:38:22 Data Preprocessing part 1 complete.
+2022-04-16 18:06:41 Reading the dataset.........
+2022-04-16 18:06:49 Read the dataset successfully.
+2022-04-16 18:06:49 Data preprocessing part 1 started.........
+2022-04-16 18:06:49 Extrated valuable information from the target variable.
+2022-04-16 18:06:49 Replaced all thyroidal diseases into one category.
+2022-04-16 18:06:49 Classified the target features into 0 and 1.
+2022-04-16 18:06:49 Renamed all features into understandable form.
+2022-04-16 18:06:49 Saving the processed data ........
+2022-04-16 18:06:49 Successfully saved the data in a csv file.
+2022-04-16 18:06:49 Data Preprocessing part 1 complete.
